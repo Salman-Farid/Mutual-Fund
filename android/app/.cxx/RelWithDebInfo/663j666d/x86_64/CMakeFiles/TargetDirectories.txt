@@ -1,0 +1,2 @@
+F:/emonTest/emonTestNew/EmonTest/Mutual-Fund/android/app/.cxx/RelWithDebInfo/663j666d/x86_64/CMakeFiles/edit_cache.dir
+F:/emonTest/emonTestNew/EmonTest/Mutual-Fund/android/app/.cxx/RelWithDebInfo/663j666d/x86_64/CMakeFiles/rebuild_cache.dir

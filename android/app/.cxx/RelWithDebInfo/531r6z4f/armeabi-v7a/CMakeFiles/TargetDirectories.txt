@@ -1,0 +1,2 @@
+F:/emonTest/emonTestNew/EmonTest/attendance/android/app/.cxx/RelWithDebInfo/531r6z4f/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/emonTest/emonTestNew/EmonTest/attendance/android/app/.cxx/RelWithDebInfo/531r6z4f/armeabi-v7a/CMakeFiles/rebuild_cache.dir
