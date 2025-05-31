@@ -25,6 +25,9 @@ void main() async {
     ),
   );
 
+
+
+
   // Initialize GetStorage for local storage of watchlists
   await GetStorage.init();
 
