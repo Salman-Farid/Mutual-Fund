@@ -7,6 +7,7 @@ import 'package:mutualfund/app/routes/app_pages.dart';
 import 'package:mutualfund/app/data/services/theme_service.dart';
 import 'package:mutualfund/app/data/services/auth_service.dart';
 import 'package:mutualfund/app/data/providers/mutual_fund_provider.dart';
+
 import 'package:mutualfund/app/data/providers/watchlist_provider.dart';
 
 
