@@ -12,6 +12,8 @@ import 'package:mutualfund/app/data/providers/watchlist_provider.dart';
 
 
 
+
+
 const supabaseUrl = 'https://nyplybmbynplniqzfree.supabase.co';
 const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im55cGx5Ym1ieW5wbG5pcXpmcmVlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc4OTY1NzIsImV4cCI6MjA2MzQ3MjU3Mn0.b9xRuSX30H05j_a9lhqo4XmQODDarggquUhczTaJ0EQ';
 
